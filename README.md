@@ -1,11 +1,3 @@
-
-
-https://github.com/VidhyaraviR/T_sentiment_analysis/assets/122034724/51c6b3b2-5fe9-416e-8b47-ec2c2d1ed6d7
-
-
-
-https://github.com/VidhyaraviR/T_sentiment_analysis/assets/122034724/045c5e5b-2073-4c1d-b5d5-9318c9441d94
-
 # Twitter Sentimental Analysis
 # Table of content
     - Introduction
@@ -14,8 +6,7 @@ https://github.com/VidhyaraviR/T_sentiment_analysis/assets/122034724/045c5e5b-20
     - Tools and Libraries
     - Dataset description
     - steps
-    - 
-https://github.com/VidhyaraviR/T_sentiment_analysis/assets/122034724/6d7dabda-1425-49d5-9c57-a55d8909ed7c
+    - Project demonstration video
 
 # Introduction
    The classification of sentiments in social media comments is a challenging task that involves the application of machine learning and  
@@ -56,3 +47,6 @@ https://github.com/VidhyaraviR/T_sentiment_analysis/assets/122034724/6d7dabda-14
    - Train_Test_Split
    - Model training
    - Prediction
+
+# Project demonstration video
+https://github.com/VidhyaraviR/T_sentiment_analysis/assets/122034724/6d7dabda-1425-49d5-9c57-a55d8909ed7c
