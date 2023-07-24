@@ -39,10 +39,10 @@
    - Tweet
 # Steps
    - Packages Import
-Read the train data
-Data Pre-Processing
-Exploratory Data Analysis
-Word chart of each Sentiment
-Train_Test_Split
-Model training
-Prediction
+   - Read the train data
+   - Data Pre-Processing
+   - Exploratory Data Analysis
+   - Word chart of each Sentiment
+   - Train_Test_Split
+   - Model training
+   - Prediction
