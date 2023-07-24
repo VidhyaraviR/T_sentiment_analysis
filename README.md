@@ -28,17 +28,17 @@
    - Numpy
    - Matplotlib
    - Seaborn
-   -Sklearn
-   -Joblib
+   - Sklearn
+   - Joblib
 # Dataset description
    The dataset used for this project consists of the following columns:
 
-ID
-Company
-Feelings
-Tweet
-Steps
-Packages Import
+   - ID
+   - Company
+   - Feelings
+   - Tweet
+# Steps
+   - Packages Import
 Read the train data
 Data Pre-Processing
 Exploratory Data Analysis
